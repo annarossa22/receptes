@@ -1,7 +1,7 @@
-philadelphia
-nata
-sucre
-iogur limon
-galetes maria
-mantega
-mermelada
+philadelphia 400
+nata 0
+sucre -10
+iogur limon 5
+galetes maria 50000
+mantega 20
+mermelada 1
