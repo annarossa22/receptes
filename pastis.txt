@@ -4,4 +4,4 @@ sucre -10
 iogur limon 5
 galetes maria 50000
 mantega 20
-mermelada 1
+mermelada 1 
